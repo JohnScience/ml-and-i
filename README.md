@@ -6,11 +6,11 @@
 
 First and foremost, my interest lies in the fields of [Cross-Language Interoperability](https://en.wikipedia.org/wiki/Language_interoperability) and [Performance Engineering](https://en.wikipedia.org/wiki/Performance_engineering), rather than Machine Learning. And this determined the concepts, principles, and technologies that I learned and used in my projects.
 
-Having said that, I also deeply love Mathematics and - as a Software Engineer - I especially care about the discrete rather than continuous parts of it. For instance, recently (as of March 16, 2025), I was having fun with the extension of [Morton order](https://en.wikipedia.org/wiki/Z-order_curve) to arbitrary 2D shapes of matrices (which can be used, for example, for efficient \[= with high cache locality\] diamond-shaped-pattern access to 2D images or game maps). You can find the Google Colab notebook with the code and explanations [here](https://colab.research.google.com/drive/1yO0iNEWpQeGmWP4_m8_CqCqlcRGAZ2oj?usp=sharing).
+That said, I also deeply love Mathematics and - as a Software Engineer - I especially care about the discrete rather than continuous parts of it. For instance, recently (as of March 16, 2025), I was having fun with the extension of [Morton order](https://en.wikipedia.org/wiki/Z-order_curve) to arbitrary 2D shapes of matrices (which can be used, for example, for efficient \[= with high cache locality\] diamond-shaped-pattern access to 2D images or game maps). You can find the Google Colab notebook with the code and explanations [here](https://colab.research.google.com/drive/1yO0iNEWpQeGmWP4_m8_CqCqlcRGAZ2oj?usp=sharing).
 
 *Note: I never intended to share it with anyone in the foreseeable future, but I decided to do it here because it well demonstrates my mathematical interests (but not my programming skills because the code there was meant to be a throw-away code).*
 
-### Professional Backgroung
+### Professional Background
 
 Throughout my career, I have been primarily working as a Backend, Full-Stack, or Cross-Platform developer, where were many opportunities to apply my interests, skills, and knowledge. You can learn more about my commercial programming story at <https://github.com/JohnScience/my_com_projs>.
 
@@ -28,7 +28,7 @@ Throughout my career, I have been primarily working as a Backend, Full-Stack, or
 
 - **Version Control**: `git`, `gh`, Git hooks (pre-commit).
 - **Formatting**:
-    * **Python:**: `black`, `autopep8`.
+    * **Python**: `black`, `autopep8`.
     * **Rust**: `rustfmt`.
     * **C/C++**: `clang-format`.
     * ...
