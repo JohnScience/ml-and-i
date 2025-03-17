@@ -17,6 +17,7 @@ Throughout my career, I have been primarily working as a Backend, Full-Stack, or
 ## Programming Skills
 
 *Note: many of the skills that are deemed to be connected to ML too remotely are omitted.*
+*Note: crossed-out items are known unknowns.*
 
 ### Languages
 
