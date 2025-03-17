@@ -35,7 +35,7 @@ Throughout my career, I have been primarily working as a Backend, Full-Stack, or
     * **C/C++**: `clang-format`.
     * ...
 - **Linting**:
-    * **Python:**: `flake8`, `pylint`, `ruff`.
+    * **Python**: `flake8`, `pylint`, `ruff`.
     * **Rust**: `clippy`.
     * **C/C++**: `clang-tidy`.
     * ...
@@ -45,7 +45,7 @@ Throughout my career, I have been primarily working as a Backend, Full-Stack, or
 ### Package and Environment Management
 
 - **Language-Package and Environment Management**:
-    * **Python:**: `poetry`, `conda`, `virtualenv`, `venv`, `pip install -r requirements.txt`.
+    * **Python**: `poetry`, `conda`, `virtualenv`, `venv`, `pip install -r requirements.txt`.
     * **Rust**: `cargo`.
     * **C/C++**: `cmake`, `vcpkg`.
     * ...
